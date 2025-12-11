@@ -19,7 +19,7 @@ export default [
 
     // ...your eslint config
 
-    // @softvisio:recommended
+    // @c0rejs:recommended
     eslintSoftvisio.configs.recommended,
 ];
 ```
