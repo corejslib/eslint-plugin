@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.7.38 (2026-01-27)
+
+**Other changes:**
+
+- chore(metadata): update package metadata (● [df546d8](https://github.com/c0rejs/eslint-plugin/commit/df546d8); 👬 zdm)
+
+Compare with the previous release: [v1.7.37](https://github.com/c0rejs/eslint-plugin/compare/v1.7.37...v1.7.38)
+
 ### v1.7.37 (2026-01-05)
 
 **Other changes:**
