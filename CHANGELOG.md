@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.7.41 (2026-01-31)
+
+**Other changes:**
+
+- chore: rename package (● [ed13c68](https://github.com/corejslib/eslint-plugin/commit/ed13c68); 👬 zdm)
+
+Compare with the previous release: [v1.7.40](https://github.com/corejslib/eslint-plugin/compare/v1.7.40...v1.7.41)
+
 ### v1.7.40 (2026-01-29)
 
 No changes since the previous release.
