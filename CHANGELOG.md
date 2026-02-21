@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.7.43 (2026-02-21)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: rename objectIsPlain to isPlainObject (● [188fb84](https://github.com/corejslib/eslint-plugin/commit/188fb84); 👬 zdm)
+
+Compare with the previous release: [v1.7.42](https://github.com/corejslib/eslint-plugin/compare/v1.7.42...v1.7.43)
+
 ### v1.7.42 (2026-02-05)
 
 **Other changes:**
