@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.7.44 (2026-03-06)
+
+**Other changes:**
+
+- chore(metadata): update package metadata (● [8d1f7f5](https://github.com/corejslib/eslint-plugin/commit/8d1f7f5); 👬 zdm)
+
+Compare with the previous release: [v1.7.43](https://github.com/corejslib/eslint-plugin/compare/v1.7.43...v1.7.44)
+
 ### v1.7.43 (2026-02-21)
 
 **Code refactoring:**
