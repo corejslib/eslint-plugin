@@ -1,6 +1,6 @@
 {
     "name": "@corejslib/eslint-plugin",
-    "version": "1.8.0",
+    "version": "1.8.1",
     "description": "Softisio ESLint Plugin",
     "keywords": [
         "softvisio",

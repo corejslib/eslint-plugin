@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.8.1 (2026-03-11)
+
+**Other changes:**
+
+- build(deps): add eslint peer dependency (● [d576530](https://github.com/corejslib/eslint-plugin/commit/d576530); 👬 zdm)
+
+Compare with the previous release: [v1.8.0](https://github.com/corejslib/eslint-plugin/compare/v1.8.0...v1.8.1)
+
 ### v1.8.0 (2026-03-11)
 
 **New features:**
