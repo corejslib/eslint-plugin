@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.8.0 (2026-03-11)
+
+**New features:**
+
+- \[MINOR] feat: migrate to eslint 10 (● [c5e72b9](https://github.com/corejslib/eslint-plugin/commit/c5e72b9); 👬 zdm)
+
+Compare with the previous release: [v1.7.44](https://github.com/corejslib/eslint-plugin/compare/v1.7.44...v1.8.0)
+
 ### v1.7.44 (2026-03-06)
 
 **Other changes:**
