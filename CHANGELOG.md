@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.8.3 (2026-04-20)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: update .editorconfig (● [97bb87b](https://github.com/corejslib/eslint-plugin/commit/97bb87b); 👬 zdm)
+
+Compare with the previous release: [v1.8.2...v1.8.3](https://github.com/corejslib/eslint-plugin/compare/v1.8.2...v1.8.3)
+
 ### v1.8.2 (2026-03-18)
 
 **Other changes:**
