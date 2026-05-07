@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.8.4 (2026-05-07)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: rename cli.config.yaml to scli.config.yaml (● [a33d9a6](https://github.com/corejslib/eslint-plugin/commit/a33d9a6); 👬 zdm)
+
+Compare with the previous release: [v1.8.3...v1.8.4](https://github.com/corejslib/eslint-plugin/compare/v1.8.3...v1.8.4)
+
 ### v1.8.3 (2026-04-20)
 
 **Code refactoring:**
