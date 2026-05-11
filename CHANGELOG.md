@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.8.5 (2026-05-11)
+
+**Other changes:**
+
+- style: lint (● [63162f6](https://github.com/corejslib/eslint-plugin/commit/63162f6); 👬 zdm)
+
+Compare with the previous release: [v1.8.4...v1.8.5](https://github.com/corejslib/eslint-plugin/compare/v1.8.4...v1.8.5)
+
 ### v1.8.4 (2026-05-07)
 
 **Code refactoring:**
