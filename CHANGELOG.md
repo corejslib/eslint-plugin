@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.8.6 (2026-05-16)
+
+**Other changes:**
+
+- docs: update readme (● [167372c](https://github.com/corejslib/eslint-plugin/commit/167372c); 👬 zdm)
+
+Compare with the previous release: [v1.8.5...v1.8.6](https://github.com/corejslib/eslint-plugin/compare/v1.8.5...v1.8.6)
+
 ### v1.8.5 (2026-05-11)
 
 **Other changes:**
