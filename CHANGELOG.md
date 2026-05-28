@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.8.8 (2026-05-28)
+
+**Other changes:**
+
+- build: remove registries from .npmrc (● [e82e7ae](https://github.com/corejslib/eslint-plugin/commit/e82e7ae); 👬 zdm)
+
+Compare with the previous release: [v1.8.7...v1.8.8](https://github.com/corejslib/eslint-plugin/compare/v1.8.7...v1.8.8)
+
 ### v1.8.7 (2026-05-16)
 
 **Other changes:**
