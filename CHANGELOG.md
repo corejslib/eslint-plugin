@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.8.10 (2026-07-02)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix md \_ escape (● [c8f92b9](https://github.com/corejslib/eslint-plugin/commit/c8f92b9); 👬 zdm)
+
+Compare with the previous release: [v1.8.9...v1.8.10](https://github.com/corejslib/eslint-plugin/compare/v1.8.9...v1.8.10)
+
 ### v1.8.9 (2026-06-21)
 
 **Other changes:**
