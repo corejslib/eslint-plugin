@@ -571,7 +571,7 @@ Fixes:
 
 Fixes:
 
-- fix: snake_case validation
+- fix: snake\_case validation
 
 ### 1.2.2 (2021-10-05)
 
