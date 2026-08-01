@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.8.12 (2026-08-01)
+
+**Other changes:**
+
+- chore: rename softvisio to corejslib (● [e26a623](https://github.com/corejslib/eslint-plugin/commit/e26a623); 👬 zdm)
+
+Compare with the previous release: [v1.8.11...v1.8.12](https://github.com/corejslib/eslint-plugin/compare/v1.8.11...v1.8.12)
+
 ### v1.8.11 (2026-08-01)
 
 **Bug fixes:**
