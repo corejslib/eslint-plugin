@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.8.11 (2026-08-01)
+
+**Bug fixes:**
+
+- \[PATCH] fix: update package keywords (● [2ea79d7](https://github.com/corejslib/eslint-plugin/commit/2ea79d7); 👬 zdm)
+
+Compare with the previous release: [v1.8.10...v1.8.11](https://github.com/corejslib/eslint-plugin/compare/v1.8.10...v1.8.11)
+
 ### v1.8.10 (2026-07-02)
 
 **Bug fixes:**
