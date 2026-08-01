@@ -18,13 +18,13 @@ npm install @corejslib/eslint-plugin
 `eslint.config.js`:
 
 ```javascript
-import eslintSoftvisio from "@corejslib/eslint-plugin";
+import eslintCorejslib from "@corejslib/eslint-plugin";
 
 export default [
 
     // ...your eslint config
 
     // @corejslib:recommended
-    eslintSoftvisio.configs.recommended,
+    eslintCorejslib.configs.recommended,
 ];
 ```
