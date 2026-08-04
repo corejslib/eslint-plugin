@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.8.13 (2026-08-04)
+
+**Other changes:**
+
+- chore: rename ccli to zcli (● [5c33a4d](https://github.com/corejslib/eslint-plugin/commit/5c33a4d), [dca49d6](https://github.com/corejslib/eslint-plugin/commit/dca49d6), [8671e0f](https://github.com/corejslib/eslint-plugin/commit/8671e0f); 👬 zdm)
+
+Compare with the previous release: [v1.8.12...v1.8.13](https://github.com/corejslib/eslint-plugin/compare/v1.8.12...v1.8.13)
+
 ### v1.8.12 (2026-08-01)
 
 **Other changes:**
